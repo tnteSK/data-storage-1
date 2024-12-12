@@ -1,1 +1,2 @@
 ["https://raw.githubusercontent.com/tnteSK/data-storage-1/main/VoxelGameBackground.png","Игра сюрприз!Конечно она стоит целый воксель, но изначально такая была задумка.\nНу это хороший платформер","Voxel",500,"https://triangle-apps.neocities.org/","Voxel"]
+CANCELLOAD
