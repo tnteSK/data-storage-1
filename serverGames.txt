@@ -1,2 +1,1 @@
-["https://raw.githubusercontent.com/tnteSK/data-storage-1/main/VoxelGameBackground.png","Игра сюрприз!Конечно она стоит целый воксель, но изначально такая была задумка.\nНу это хороший платформер","Voxel",500,"https://triangle-apps.neocities.org/","Voxel"]
-CANCELLOAD
+["https://raw.githubusercontent.com/tnteSK/data-storage-1/main/virtualshop.png","Описание будет кратким, это просто банк","Rare",0,"https://tntesk.github.io/data-storage-1/virtualshop","shop"]
