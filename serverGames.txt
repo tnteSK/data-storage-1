@@ -1,2 +1,1 @@
 ["https://raw.githubusercontent.com/tnteSK/data-storage-1/main/virtualshop.png","Описание будет кратким, это просто банк","Rare",0,"https://tntesk.github.io/data-storage-1/virtualshop","shop"]
-["https://raw.githubusercontent.com/tnteSK/data-storage-1/main/virtualshop.png","Описание будет кратким, это просто банк","Rare",0,"https://tntesk.github.io/data-storage-1/virtualshop","shop"]
