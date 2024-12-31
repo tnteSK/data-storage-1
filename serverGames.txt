@@ -1,2 +1,3 @@
 ["https://raw.githubusercontent.com/tnteSK/data-storage-1/main/virtualshop.png","Описание будет кратким, это просто банк для виртуальной оплаты","Rare",0,"https://tntesk.github.io/data-storage-1/virtualshop","shop"]
 ["https://raw.githubusercontent.com/tnteSK/data-storage-1/main/z1.jpg","Поздравление с новым годом!","Rare",0,"https://triangle-apps.neocities.org/Happy2025Year","2025Year"]
+["https://raw.githubusercontent.com/tnteSK/data-storage-1/main/RickRoll.jpg","Просто рикролл!","Rare",0,"https://tnteSK.github.io/data-storage-1/Онлайн%20Игра.html","RickRoll"]
